@@ -57,16 +57,6 @@ Edit
 │   └── fail.mp3
 You can add more sounds like orange.mp3, pink.mp3, etc., and extend the color array accordingly.
 
-📦 Setup
-To run this project locally:
-
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/color-match-game.git
-Open index.html in your browser.
 
 Enjoy!
 
